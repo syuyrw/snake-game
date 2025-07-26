@@ -17,8 +17,6 @@ I used tools such as: Random, TimerTask, JPanel, javax, ArrayLists, WindowLists,
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 -   [W3 Schools](https://www.w3schools.com/java/)
 -   [Programming With Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34&ab_channel=ProgrammingwithMosh)
 -   [Bro Code](https://www.youtube.com/watch?v=bI6e6qjJ8JQ&ab_channel=BroCode)
@@ -27,8 +25,6 @@ I used tools such as: Random, TimerTask, JPanel, javax, ArrayLists, WindowLists,
 -   [Stack Overflow](https://stackoverflow.com/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 -   I need to make it so that when you collide with the wall, it results in a game over
 -   I would like to make it so that a new fruit spawns quicker
